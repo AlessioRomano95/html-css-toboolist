@@ -6,7 +6,7 @@
 
 body{
   font-family: 'Roboto', sans-serif;
-  background-color: rgb(145, 145, 145);
+  background-color: #F6F8F9;
 }
 
 /*header*/
@@ -69,7 +69,16 @@ h1{
 
   /*hr fa da divisore*/
   hr{
-    color:black;
-    border-bottom: 3px solid rgb(0, 0, 0);
+    background-color:#ffffff;
+    border-bottom: 3px solid #F6F8F9;
     margin-top: 20px;
+  }
+
+  ul{
+    margin-top:30px;
+    margin-left:20px
+  }
+
+  li{
+    list-style-type: none;
   }
