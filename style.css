@@ -76,7 +76,7 @@ h1{
     margin-top: 20px;
   }
 
-  /*lista*/
+  /*list*/
   ul{
     margin-top:30px;
     margin-left:5px
@@ -92,7 +92,7 @@ h1{
     padding-left: 14px;
   }
 
-  /*cerchio*/
+  /*circle*/
   .circle{
     display: inline-block;
     height: 15px;
@@ -115,3 +115,35 @@ color: green;
   color: rgb(196, 0, 0);
   }
 
+  /*read*/
+  .read{
+    padding: 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    color: white;
+  }
+
+  /*read color*/
+  .read#editorial{
+    background-color: #47ADF1;
+  }
+
+  .read#q1{
+    background-color: rgb(161, 96, 223);
+  }
+
+  .read#recruiting{
+    background-color: rgb(90, 194, 159);
+  }
+
+  .read#mobile{
+    background-color: rgb(221, 123, 52);
+  }
+
+  .read#web{
+    background-color: rgb(216, 73, 216);
+  }
+
+  .read#sales{
+    background-color: rgb(114, 212, 114);
+  }
